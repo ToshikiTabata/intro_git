@@ -1,0 +1,4 @@
+1	git練習
+2	基本的なワークフローの練習
+3	git statu
+4	git diff
